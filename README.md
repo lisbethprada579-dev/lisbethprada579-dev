@@ -1,6 +1,6 @@
 # 👩‍💻 ¡Hola! Soy Lisbeth Prada
 
-**Estudiante de Ingeniería de Sistemas** en las **Unidades Tecnológicas de Santander** (10° semestre).  
+** Ingenierío de Sistemas** de las **Unidades Tecnológicas de Santander**.  
 Apasionada por el **desarrollo web**, la **calidad de software** y las **tecnologías innovadoras**.  
 
 ---
@@ -27,7 +27,6 @@ Apasionada por el **desarrollo web**, la **calidad de software** y las **tecnolo
 ---
 
 ## 🎯 Actualmente
-- Finalizando Ingeniería de Sistemas Informáticos  
 - Fortaleciendo conocimientos en **backend con Node.js/Express** y **frontend con HTML, CSS y JS**  
 - Buscando crecer con proyectos reales y prácticas profesionales  
 
@@ -42,7 +41,7 @@ Apasionada por el **desarrollo web**, la **calidad de software** y las **tecnolo
 ---
 
 ## 📚 Educación
-- 🎓 **Ingeniería de Sistemas Informáticos** – UTS (en curso, décimo semestre)  
+- 🎓 **Ingeniería de Sistemas Informáticos** – UTS
 - 🎓 **Tecnólogo en Desarrollo de Sistemas Informáticos** – UTS  
 - 🎓 **Técnico Laboral en Administración Documental y Archivo** – FUNDETEC 
 ---
